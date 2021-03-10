@@ -11,4 +11,7 @@
  ![image](https://user-images.githubusercontent.com/79992109/110593179-9811ba00-81be-11eb-82df-e02eacd3badd.png)
 
  -수정된 파일
- ![Uploading image.png…]()
+ ![image](https://user-images.githubusercontent.com/79992109/110596270-6c90ce80-81c2-11eb-9d19-7a2422e6ae75.png)
+ 
+ -수정된 내용
+![Uploading image.png…]()
