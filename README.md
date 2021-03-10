@@ -2,7 +2,7 @@
 
 1. In-class homework : Week2 Day1 #1 
  - 화면출력 문자열 바꾸기
-![image](https://user-images.githubusercontent.com/79992109/110593529-08b8d680-81bf-11eb-85b3-989f3354ad18.png)
+![image](https://user-images.githubusercontent.com/79992109/110593595-1ec69700-81bf-11eb-9d73-7fe4a24ea92c.png)
 
 
 
