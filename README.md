@@ -20,3 +20,8 @@
  -수정된 내용
  
   ![image](https://user-images.githubusercontent.com/79992109/110596270-6c90ce80-81c2-11eb-9d19-7a2422e6ae75.png)
+  
+  
+  
+  3. Lifecycle 확인 동영상
+    https://www.youtube.com/watch?v=Vmsn3386Jlw
